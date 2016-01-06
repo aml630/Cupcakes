@@ -1,0 +1,19 @@
+.flashy {
+  color: #ff0000;
+  font-style: italic;
+}
+
+.best {
+  color: #0099ff;
+  font-weight: bold;
+  line-height: 2em;
+}
+
+img {
+  height: 200px;
+  width: 350px;
+}
+
+p {
+  width: 50%;
+}
